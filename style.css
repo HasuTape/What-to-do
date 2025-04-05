@@ -1,0 +1,16 @@
+#i
+{
+  background-image: linear-gradient(0deg, orange, yellow);
+  height: 100%;
+}
+
+#c
+{
+  background-image: linear-gradient(0deg, rgb(138, 138, 222), white);
+  height: 100%;
+}
+#e
+{
+  background-image: linear-gradient(0deg, orange, gold);
+  height: 100%;
+}
